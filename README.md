@@ -1,10 +1,4 @@
-<div align="center">
-  <img src="https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white&style=for-the-badge" height="50" alt="swift logo"  />
-</div>
-
-###
-
-<div align="center">
+<div align="left">
   <a href="https://twitter.com/timi2506/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=%F0%9D%95%8F&color=1DA1F2&logoColor=white&labelColor=000000&style=for-the-badge" height="50" alt="twitter logo"  />
   </a>
@@ -14,6 +8,14 @@
 </div>
 
 ###
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white&style=for-the-badge" height="50" alt="swift logo"  />
+</div>
+
+###
+
+<br clear="both">
 
 <img src="https://raw.githubusercontent.com/timi2506/timi2506/output/snake.svg" alt="Snake animation" />
 
