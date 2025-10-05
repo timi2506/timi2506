@@ -1,16 +1,26 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white&style=for-the-badge" height="50" alt="swift logo"  />
+</div>
 
-<!--
-**timi2506/timi2506** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://twitter.com/timi2506/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=%F0%9D%95%8F&color=1DA1F2&logoColor=white&labelColor=000000&style=for-the-badge" height="50" alt="twitter logo"  />
+  </a>
+  <a href="https://ko-fi.com/timi2506/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="ko-fi logo"  />
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<img src="https://raw.githubusercontent.com/timi2506/timi2506/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=timi2506&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2&custom_title=Languages" height="75" alt="languages graph"  />
+</div>
+
+###
